@@ -8,3 +8,5 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 --> 🛳️[Cruise Crew Size Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/crew%20size%20prediction)
 
 --> 🍷[Red Wine Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/wine%20quality%20prediction)
+
+--> 🌸[Iris Prediction App](https://github.com/Zulfa-Varvani/ML-things/tree/main/iris%20prediction%20app)
