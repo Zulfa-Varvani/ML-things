@@ -11,12 +11,12 @@ This submission is in response to the data science exercise provided:
 <br>
 ➡ Libraries used:
 <br>
-    - NumPy
+* NumPy
     <br>
-    - Pandas
+* Pandas
     <br>
-    - Seaborn
+* Seaborn
     <br>
-    - Matplotlib
+* Matplotlib
     <br>
-    - Scikit-learn
+* Scikit-learn
