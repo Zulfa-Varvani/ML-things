@@ -8,8 +8,8 @@ This submission is in response to the data science exercise provided:
 ➡ Attempted until question 9
 <br>
 ➡ Used Google Colab
-<br>
-➡ Libraries used:
+
+#### Libraries used:
 <br>
 * NumPy
     <br>
