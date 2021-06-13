@@ -2,21 +2,21 @@
 
 This submission is in response to the data science exercise provided:
 <br>
-[Exercise](https://bit.ly/tohacksdataexercise)
+[Exercise Link](https://bit.ly/tohacksdataexercise)
 
 #### Insights:
---> Attempted until question 9
+➡ Attempted until question 9
 <br>
---> Used Google Colab
+➡ Used Google Colab
 <br>
---> Libraries used:
+➡ Libraries used:
 <br>
-    ⏺ NumPy
+    - NumPy
     <br>
-    ⏺ Pandas
+    - Pandas
     <br>
-    ⏺ Seaborn
+    - Seaborn
     <br>
-    ⏺ Matplotlib
+    - Matplotlib
     <br>
-    ⏺ Scikit-learn
+    - Scikit-learn
