@@ -10,13 +10,8 @@ This submission is in response to the data science exercise provided:
 ➡ Used Google Colab
 
 #### Libraries used:
-<br>
 * NumPy
-    <br>
 * Pandas
-    <br>
 * Seaborn
-    <br>
 * Matplotlib
-    <br>
 * Scikit-learn
