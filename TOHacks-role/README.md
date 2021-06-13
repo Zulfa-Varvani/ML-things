@@ -6,10 +6,17 @@ This submission is in response to the data science exercise provided:
 
 #### Insights:
 --> Attempted until question 9
+<br>
 --> Used Google Colab
+<br>
 --> Libraries used:
+<br>
     ⏺ NumPy
+    <br>
     ⏺ Pandas
+    <br>
     ⏺ Seaborn
+    <br>
     ⏺ Matplotlib
+    <br>
     ⏺ Scikit-learn
