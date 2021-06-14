@@ -1,8 +1,11 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn import datasets
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import VotingClassifier
 
 st.write("""
 # Iris Flower Prediction App
@@ -32,22 +35,23 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-iris = datasets.load_iris()
-X = iris.data
-Y = iris.target
+iris = pd.read_csv('iris.csv')
+X = iris.drop('species', axis=1)
+Y = iris.species
 
-clf = RandomForestClassifier()
-clf.fit(X,Y)
+knn = KNeighborsClassifier(5)
+svm = SVC()
+dt = DecisionTreeClassifier()
+rf = RandomForestClassifier()
 
-prediction = clf.predict(df)
-prediction_proba = clf.predict_proba(df)
+ens = VotingClassifier(estimators = [('KNN', knn),('SVM', svm), ('DT', dt), ('RF', rf)], voting = 'hard')
+
+ens.fit(X, Y)
+
+prediction = ens.predict(df)
 
 st.subheader('Class labels and their corresponding index number')
-st.write(iris.target_names)
+st.write(iris.species)
 
 st.subheader('Prediction')
-st.write(iris.target_names[prediction])
-#st.write(prediction)
-
-st.subheader('Prediction Probability')
-st.write(prediction_proba)
+st.write(prediction)
