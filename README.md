@@ -3,6 +3,8 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 ## Check out the mini-projects!
 
+##### Supervised Learning
+
 --> 🚴‍♀️[Breast Cancer Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/breast%20cancer%20detection)
 
 --> 🛳️[Cruise Crew Size Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/TOHacks-role) [TOHacks data analyst coordinator application]
