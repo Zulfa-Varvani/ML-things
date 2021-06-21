@@ -5,7 +5,7 @@ This submission is in response to the data science exercise provided:
 [Exercise Link](https://bit.ly/tohacksdataexercise)
 
 #### Insights:
-➡ Attempted until question 8
+➡ Attempted until question 9
 <br>
 ➡ Used Google Colab
 
