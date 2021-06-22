@@ -11,4 +11,6 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 --> 🌸[Iris Prediction App](https://github.com/Zulfa-Varvani/ML-things/tree/main/iris%20prediction%20app)
 
---> 📰[Fake News Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/NLP%20Fake%20News%20Detection) [work in progress]
+--> 📰[Fake News Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/NLP%20Fake%20News%20Detection)
+
+--> 🖼[Image Classification](https://github.com/Zulfa-Varvani/ML-things/tree/main/image%20classification) [work in progress]
