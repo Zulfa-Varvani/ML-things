@@ -8,4 +8,7 @@ Using dataset from CIFAR-10
 * 50000 images for training and 1000 images for testing
 * Accuracy of about 70%
 
-**Need to improve accuracy**
+### Future improvements:
+* Improve accuracy
+* Work more on pre-processing
+* Play around with neural net for better prediction
