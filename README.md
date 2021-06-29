@@ -15,4 +15,4 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 --> 🖼[Image Classification](https://github.com/Zulfa-Varvani/ML-things/tree/main/image%20classification)
 
---> 🩺[Heart Disease Prediction]
+--> 🩺[Heart Disease Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/heart%20disease%20detection)
