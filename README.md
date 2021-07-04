@@ -17,4 +17,4 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 --> 🩺[Heart Failure Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/heart%20failure%20prediction)
 
---> 🌊[Water Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/water%20quality%20prediction)
+--> 🌊[Water Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/water%20quality%20prediction) [In Progress]
