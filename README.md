@@ -13,7 +13,7 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 --> 📰[Fake News Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/NLP%20Fake%20News%20Detection)
 
---> 🖼 Image Classification
+--> 🖼[Image Classification](https://github.com/Zulfa-Varvani/ML-things/tree/main/image%20classification)
 
 --> 🩺[Heart Failure Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/heart%20failure%20prediction)
 
