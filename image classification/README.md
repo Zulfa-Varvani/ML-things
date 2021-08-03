@@ -13,3 +13,8 @@ Using dataset from CIFAR-10
 * Stacking convolutional layers with small 3x3 filters followed by max pooling layer. These form a block which can be repeated and the filters are increasing with depth to the network
 * Model is optimized using stochiastic gradient descent
 * Used 1 VGG block
+* Model overfits test dataset
+
+### Improvements:
+* Increasing accuracy with increasing VGG blocks
+* Will attempt regularization techniques to improve model
