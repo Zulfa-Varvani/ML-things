@@ -6,9 +6,10 @@ Using dataset from CIFAR-10
 * Used Keras
 * CNN for classification
 * 50000 images for training and 1000 images for testing
-* Accuracy of about 70%
+* Accuracy of about 67% using baseline VGG model
 
-### Future improvements:
-* Improve accuracy
-* Work more on pre-processing
-* Play around with neural net for better prediction
+### Model:
+* [VGG model](https://arxiv.org/abs/1409.1556) is easy to understand and implement architecture
+* Stacking convolutional layers with small 3x3 filters followed by max pooling layer. These form a block which can be repeated and the filters are increasing with depth to the network
+* Model is optimized using stochiastic gradient descent
+* Used 1 VGG block
