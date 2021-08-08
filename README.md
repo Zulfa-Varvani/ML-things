@@ -3,18 +3,18 @@ Follow me in my journey with machine learning and data science. I hope to be abl
 
 ## Check out the mini-projects!
 
---> 🚴‍♀️[Breast Cancer Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/breast%20cancer%20detection)
+--> 📰[Fake News Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/NLP%20Fake%20News%20Detection)
 
 --> 🛳️[Cruise Crew Size Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/TOHacks-role) [TOHacks data analyst coordinator application]
 
---> 🍷 [Red Wine Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/wine%20quality%20prediction)
-
---> 🌸[Iris Prediction App](https://github.com/Zulfa-Varvani/ML-things/tree/main/iris%20prediction%20app)
-
---> 📰[Fake News Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/NLP%20Fake%20News%20Detection)
-
---> 🖼[Image Classification](https://github.com/Zulfa-Varvani/ML-things/tree/main/image%20classification)
+--> 🚴‍♀️[Breast Cancer Detection](https://github.com/Zulfa-Varvani/ML-things/tree/main/breast%20cancer%20detection)
 
 --> 🩺[Heart Failure Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/heart%20failure%20prediction)
 
+--> 🖼[Image Classification](https://github.com/Zulfa-Varvani/ML-things/tree/main/image%20classification)
+
+--> 🌸[Iris Prediction App](https://github.com/Zulfa-Varvani/ML-things/tree/main/iris%20prediction%20app)
+
 --> 🌊[Water Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/water%20quality%20prediction)
+
+--> 🍷 [Red Wine Quality Prediction](https://github.com/Zulfa-Varvani/ML-things/tree/main/wine%20quality%20prediction)
