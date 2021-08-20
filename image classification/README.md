@@ -5,16 +5,17 @@
 * Accuracy with baseline VGG model
   * 1 VGG block - 67%
   * 2 VGG blocks - 71.5%
+  * 3 VGG block - 73%
 
 ### Model:
 * [VGG model](https://arxiv.org/abs/1409.1556) is easy to understand and implement architecture
 * Stacking convolutional layers with small 3x3 filters followed by max pooling layer. These form a block which can be repeated and the filters are increasing with depth to the network
 * Model is optimized using stochiastic gradient descent
-* Used 2 VGG block
-* Model overfits test dataset within first 15 epochs
+* Used 3 VGG block
+* Model overfits test dataset within first 15-20 epochs
 
 ### Improvements:
-* Increasing accuracy with increasing VGG blocks
+* Accuracy increased slightly with increase in VGG blocks
 * Will attempt regularization techniques to improve model
 
 [Work in progress]
