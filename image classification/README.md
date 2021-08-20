@@ -17,6 +17,10 @@
 ### Improvements:
 * Accuracy increased slightly with increase in VGG blocks
 * Will attempt regularization techniques to improve model
+  * Added Dropout layers after each max pooling layer with a rate of 20%
+    * Accuracy of
+    * Model converges well for first 40 epochs - no further improvements after. Can add early stopping to save the model on the test set during training when no further improvements are made
+  * Using weight decay/weight regularization
 
 [Work in progress]
 <br> 
