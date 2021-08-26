@@ -20,6 +20,7 @@
   * Added Dropout layers after each max pooling layer with a rate of 20%
     * Accuracy of __82.4%__
     * Model converges well for first 40 epochs - no further improvements after. Can add early stopping to save the model on the test set during training when no further improvements are made
+    * Increasing dropout with depth in model led to an accuracy of __82.8%__
   * Using weight decay/weight regularization did NOT improve accuracy
   * Data augmentation - making small random modifications to copies of examples in training dataset
     * Accuracy of __84.3%__
