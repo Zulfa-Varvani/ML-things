@@ -22,11 +22,12 @@
     * Model converges well for first 40 epochs - no further improvements after. Can add early stopping to save the model on the test set during training when no further improvements are made
   * Using weight decay/weight regularization did NOT improve accuracy
   * Data augmentation - making small random modifications to copies of examples in training dataset
-    * Horizontal flips
-    * Minor shifts
-    * Small zooming/cropping
+    * Accuracy of __84.3%__
+    * Horizontal flips, minor shifts, and small zooming/cropping
 
 [Work in progress]
 <br> 
 Using dataset from CIFAR-10
-![cifar10 image](https://github.com/Zulfa-Varvani/ML-things/blob/main/image%20classification/cifar10.png)
+![cifar10 image](https://github.com/Zulfa-Varvani/ML-things/blob/main/image%20classification/cifar10.png){:height="100px" width="200px"}
+
+#### Current Accuracy: 84.3%
