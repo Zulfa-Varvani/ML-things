@@ -28,6 +28,6 @@
 [Work in progress]
 <br> 
 Using dataset from CIFAR-10
-![cifar10 image](https://github.com/Zulfa-Varvani/ML-things/blob/main/image%20classification/cifar10.png){:height="100px" width="200px"}
+![cifar10 image](https://github.com/Zulfa-Varvani/ML-things/blob/main/image%20classification/cifar10.png)
 
 #### Current Accuracy: 84.3%
