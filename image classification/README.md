@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification 😓
 * Used Keras
 * CNN for classification
-* 50000 images for training and 1000 images for testing
+* 50000 images for training and 10000 images for testing
 * Accuracy with baseline VGG model
   * 1 VGG block - 67%
   * 2 VGG blocks - 71.5%
